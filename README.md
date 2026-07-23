@@ -189,8 +189,6 @@ data_handling_test_v2.R          hypothesis 6 test (pk_data vs eventTable)
 test_error_model.py              hypothesis 1 test (clipping bias)
 test_identifiability.py          hypothesis 2 test (sampling design)
 sanity_check_qss.py              pre-implementation ODE verification
-
-outputs/
   simulated_denosumab_data_v2.csv   simulated dataset (1920 rows, 80 subjects)
   fit_v2.rds                        fitted model object
   parameter_recovery_v2.csv         true vs recovered comparison
